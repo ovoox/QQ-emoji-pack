@@ -167,7 +167,7 @@ async function main() {
     const stats = await processDirectory(targetDir);
     const endTime = Date.now();
     
-    console.log('\n=== 处理完成 ===');
+    console.log('\n=== 处理完成 ===\nTG资源分享频道：https://t.me/xoxxxa');
     console.log(`有效图片: ${stats.processed}`);
     console.log(`修复后缀: ${stats.renamed}`);
     console.log(`跳过文件: ${stats.skipped} (非图片或未知格式)`);
