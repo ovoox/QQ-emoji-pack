@@ -1,6 +1,5 @@
 # QQ-emoji-pack
-QQ表情包导出修复教程
-
+Android 用户从 QQ 应用中导出表情包文件并进行修复 项目使用 JavaScript 脚本 来处理导出的无扩展名文件 使其恢复正常可用的图片格式 该项目适合想备份或提取 QQ 原生表情包的用户
 ### 第一步
 - 下载zerotermux安装并打开
 - 输入以下命令：
@@ -28,3 +27,5 @@ node ./fix-images.js
 ```
 - 之后回到MT管理器查看结果
 
+Telegram资源分享频道：
+https://t.me/xoxxxa
