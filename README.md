@@ -5,7 +5,7 @@ QQ表情包导出修复教程
 - 下载zerotermux安装并打开
 - 输入以下命令：
 ```
-pkg install nodejs -y && pkg install wget -y && cd /storage/emulated/0/&& mkdir q表情包 && cd q表情包 && mkdir Ori && wget https://raw.githubusercontent.com/ovoox/QQ-emoji-pack/main/fix-images
+pkg install nodejs -y && pkg install wget -y && cd /storage/emulated/0/&& mkdir q表情包 && cd q表情包 && mkdir Ori && wget https://raw.githubusercontent.com/ovoox/QQ-emoji-pack/main/fix-images.js
 ```
 
 ### 第二步
