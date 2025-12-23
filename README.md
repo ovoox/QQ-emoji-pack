@@ -9,7 +9,7 @@ pkg install nodejs -y && pkg install wget -y && cd /storage/emulated/0/&& mkdir 
 ```
 
 ### 第二步
-- 下载MT管理安装并打开
+- 下载MT管理器安装并打开
 - 输入以下路径并跳转：
 ```
 /storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/QQ_Favorite/
